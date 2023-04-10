@@ -1,6 +1,6 @@
-name: flutter_pkg
+name: ppy_flutter_pkg
 description:  new Flutter package with a customized TextButton.
-version: 0.0.1
+version: 1.0.0
 homepage: https://github.com/dungphung/flutter-pub-example
 
 environment:
