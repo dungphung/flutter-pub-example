@@ -1,7 +1,7 @@
 name: flutter_pkg
-description: A new Flutter package project.
+description:  new Flutter package with a customized TextButton.
 version: 0.0.1
-homepage:
+homepage: https://github.com/dungphung/flutter-pub-example
 
 environment:
   sdk: '>=2.19.5 <3.0.0'
